@@ -3,8 +3,8 @@ PATH
   specs:
     notion-ruby-client (1.2.2)
       faraday (>= 2.0)
-      faraday-mashify (>= 0.1.1)
-      faraday-multipart (>= 1.0.4)
+      faraday-mashify (>= 1.0)
+      faraday-multipart (>= 1.0)
       hashie (~> 5)
 
 GEM
